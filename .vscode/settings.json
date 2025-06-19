@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\xampp\\htdocs\\mrscleansystem\\src\\lib\\jfreechart-1.0.19.jar",
+        "c:\\xampp\\htdocs\\mrscleansystem\\src\\lib\\AbsoluteLayout.jar",
+        "c:\\xampp\\htdocs\\mrscleansystem\\src\\lib\\json-20230227.jar",
+        "c:\\xampp\\htdocs\\mrscleansystem\\src\\lib\\jcommon-1.0.23.jar"
+    ],
+    "java.project.explorer.showNonJavaResources": true
+}
